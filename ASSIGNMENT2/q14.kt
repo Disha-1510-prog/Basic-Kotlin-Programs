@@ -1,0 +1,2 @@
+// 14. Map: Create a listOf("apple", "banana"). Write a one-liner using .map {} to create a new list containing the lengths of those strings[cite: 60].
+val stringLengths = listOf("apple", "banana").map { it.length }
